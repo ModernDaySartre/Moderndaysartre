@@ -13,7 +13,7 @@ To build these systems well, you also have to develop a deep understanding of ho
 
 
 
-## 🔭 I’m currently working on:
+## 🔭 I’m currently working on ...
 - Double Pendulum Simulation
 
 
