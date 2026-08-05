@@ -14,7 +14,7 @@ To build these systems well, you also have to develop a deep understanding of ho
 
 
 ## 🔭 I’m currently working on ...
-- Double Pendulum Simulation
+- Double Pendulum Simulator
 
 
 ## 🌱 I’m currently learning ...
